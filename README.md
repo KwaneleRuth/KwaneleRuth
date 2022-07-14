@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KwaneleRuth
 - 👀 I’m interested in software development, artificial intelligence and cyber security
-- 🌱 I’m currently learning cyber threat intelligence with Mosse Cybersecurity Institute
+- 🌱 I’m currently learning cyber threat intelligence with Mosse Cybersecurity Institute, software engineering with Holberton and 
 - 💞️ I’m looking to collaborate on sensor based systems, edge AI technology and any interesting projects along those lines.
 - 📫 How to reach me ... send an email to kwanelerndlovu@gmail.com
 
