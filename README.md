@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KwaneleRuth
-- 👀 I’m interested in software development, artificial intelligence and cyber security
-- 🌱 I’m currently learning cyber threat intelligence with Mosse Cybersecurity Institute, software engineering with Holberton and 
-- 💞️ I’m looking to collaborate on sensor based systems, edge AI technology and any interesting projects along those lines.
-- 📫 How to reach me ... send an email to kwanelerndlovu@gmail.com
+- 👀 I’m interested in software development, artificial intelligence and cyber threat intelligence.
+- 🌱 I’m currently learning cyber threat intelligence with Mosse Cybersecurity Institute, software engineering with ALX Holberton School and studying to certify as a Security Operations Analyst with Microsoft. 
+- 💞️ I’m looking to collaborate on projects that deal with using sensors to collect data and employ analytics on this data to come up with intelligent AI solutions.
+- 📫 To reach me, send an email to kwanelerndlovu@gmail.com
 
 <!---
 KwaneleRuth/KwaneleRuth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
