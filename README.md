@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kwanele Ruth Ndlovu.
-- 👀 I’m interested in software development, artificial intelligence and cyber threat intelligence.
+- 👀 I’m interested in machine learning, artificial intelligence and cyber threat intelligence.
 - 🌱 I’m currently learning cyber threat intelligence with Mosse Cybersecurity Institute, software engineering with ALX Holberton School and studying to certify as a Security Operations Analyst with Microsoft. 
-- 💞️ I’m looking to collaborate on projects that deal with sensors and wearables in AI or Cybersecurity related projects.
+- 💞️ I’m looking to collaborate on deep learning projects that deal with NLP and computer vision and also the use of sensors for human activity recognition.
 - 📫 To reach me, send an email to kwanelerndlovu@gmail.com
 
 <!---
